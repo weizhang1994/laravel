@@ -6,3 +6,4 @@
 or
 <strong>npm run watch</strong>
 <h3>Use laravelcollective package to create form</h3>
+use php laraval migration to migrate to database 
